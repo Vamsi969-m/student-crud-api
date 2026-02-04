@@ -44,8 +44,10 @@ and basic backend development workflow.
 
 ```json
 {
-  "name": "Vamsi",
-  "age": 22,
-  "email": "vamsi@gmail.com",
-  "rollno": 101
+    "name":"mani",
+    "course":"Full Stack Developer",
+    "rollno":105,
+    "year":2,
+    "branch":"CSE",
+    "age":22
 }
